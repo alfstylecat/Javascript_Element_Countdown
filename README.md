@@ -11,3 +11,6 @@ En : Customizable countdown timer for single or multiple elements with javascrip
 ---Planlananlar---
 
 1- Json içindeki veriler ile orada bulunan saniye değerleri alınarak tüm bir tablo veya elementler bölümünün geri sayımı.
+
+2- Element değerini id değeri olarak değilde innerHTML değeri olarak alınacak yada 2 seçenekte aynı anda kullanıma sunulabilir,
+isteğe bağlı şekilde kullanılabilir.
